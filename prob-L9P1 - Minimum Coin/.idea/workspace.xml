@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5e288c6-5769-4dda-b2ea-dfad052cd79a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z6nMx18ylooPxWZuaNw5wSj2Xg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../2-1/01418211 Software Construction/project211/6110405949" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MinimumCoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumCoin" />
+      <module name="prob-L9P1 - Minimum Coin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinimumCoin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5e288c6-5769-4dda-b2ea-dfad052cd79a" name="Default Changelist" comment="" />
+      <created>1584168366498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584168366498</updated>
+      <workItem from="1584168367741" duration="3516000" />
+      <workItem from="1584200868846" duration="106000" />
+      <workItem from="1584200996509" duration="922000" />
+      <workItem from="1584204065580" duration="7000" />
+      <workItem from="1584206493809" duration="609000" />
+      <workItem from="1584706410324" duration="149000" />
+      <workItem from="1584706671627" duration="43000" />
+      <workItem from="1584718200982" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1011" y="179" key="#Project_Structure" timestamp="1584168370683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1011" y="179" key="#Project_Structure/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584168370683" />
+    <state width="1100" height="281" key="GridCell.Tab.0.bottom" timestamp="1584706558944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1100" height="281" key="GridCell.Tab.0.bottom/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584706558944" />
+    <state width="1100" height="281" key="GridCell.Tab.0.center" timestamp="1584706558944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1100" height="281" key="GridCell.Tab.0.center/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584706558944" />
+    <state width="1100" height="281" key="GridCell.Tab.0.left" timestamp="1584706558944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1100" height="281" key="GridCell.Tab.0.left/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584706558944" />
+    <state width="1100" height="281" key="GridCell.Tab.0.right" timestamp="1584706558944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1100" height="281" key="GridCell.Tab.0.right/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584706558944" />
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom" timestamp="1584201918616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584201918616" />
+    <state width="1877" height="344" key="GridCell.Tab.1.center" timestamp="1584201918615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.center/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584201918615" />
+    <state width="1877" height="344" key="GridCell.Tab.1.left" timestamp="1584201918615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.left/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584201918615" />
+    <state width="1877" height="344" key="GridCell.Tab.1.right" timestamp="1584201918615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.right/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584201918615" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1584718232024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584718232024" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1584169122315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584169122315" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MinimumCoin.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

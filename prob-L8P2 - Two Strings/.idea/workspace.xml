@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8b99cf2-b095-41da-bf1c-b7d813893a1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwCA4qj9TSEJDsXk7E8ztFf826" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../2-1/01418211 Software Construction/project211/6110405949" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TwoStrings">
+    <configuration name="TwoStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoStrings" />
+      <module name="prob-L8P2 - Two Strings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoStringsCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoStringsCopy" />
+      <module name="prob-L8P2 - Two Strings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoStrings" />
+        <item itemvalue="Application.TwoStringsCopy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8b99cf2-b095-41da-bf1c-b7d813893a1a" name="Default Changelist" comment="" />
+      <created>1583844122336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583844122336</updated>
+      <workItem from="1583844123588" duration="13655000" />
+      <workItem from="1583896934780" duration="82000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1147" height="279" key="GridCell.Tab.0.bottom" timestamp="1583868696805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1147" height="279" key="GridCell.Tab.0.bottom/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583868696805" />
+    <state width="1147" height="279" key="GridCell.Tab.0.center" timestamp="1583868696805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1147" height="279" key="GridCell.Tab.0.center/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583868696805" />
+    <state width="1147" height="279" key="GridCell.Tab.0.left" timestamp="1583868696805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1147" height="279" key="GridCell.Tab.0.left/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583868696805" />
+    <state width="1147" height="279" key="GridCell.Tab.0.right" timestamp="1583868696805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1147" height="279" key="GridCell.Tab.0.right/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583868696805" />
+    <state x="1020" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583896934854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1020" y="345" key="com.intellij.ide.util.TipDialog/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583896934854" />
+  </component>
+</project>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="471c709b-99e7-43d0-9406-e23c94245ea1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XyehPmqvwiO0VH11nBw9cn8QIb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../2-1/01418211 Software Construction/project211/6110405949" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Candy2">
+    <configuration name="Candy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Candy2" />
+      <module name="prob-L6P2 - Candy 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CandyF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CandyF" />
+      <module name="prob-L6P2 - Candy 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="prob-L6P2 - Candy 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Candy2" />
+        <item itemvalue="Application.CandyF" />
+        <item itemvalue="Application.Candy2" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="471c709b-99e7-43d0-9406-e23c94245ea1" name="Default Changelist" comment="" />
+      <created>1582022879395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582022879395</updated>
+      <workItem from="1582022880667" duration="1676000" />
+      <workItem from="1582040953336" duration="374000" />
+      <workItem from="1582041812463" duration="602000" />
+      <workItem from="1582043047551" duration="1496000" />
+      <workItem from="1582044999339" duration="2000" />
+      <workItem from="1582045011541" duration="134000" />
+      <workItem from="1582108924379" duration="1235000" />
+      <workItem from="1582900574838" duration="8300000" />
+      <workItem from="1583040885968" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="970" height="278" key="GridCell.Tab.0.bottom" timestamp="1582909881956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="970" height="278" key="GridCell.Tab.0.bottom/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1582909881956" />
+    <state width="970" height="278" key="GridCell.Tab.0.center" timestamp="1582909881956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="970" height="278" key="GridCell.Tab.0.center/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1582909881956" />
+    <state width="970" height="278" key="GridCell.Tab.0.left" timestamp="1582909881956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="970" height="278" key="GridCell.Tab.0.left/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1582909881956" />
+    <state width="970" height="278" key="GridCell.Tab.0.right" timestamp="1582909881956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="970" height="278" key="GridCell.Tab.0.right/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1582909881956" />
+    <state x="920" y="163" key="SettingsEditor" timestamp="1582045142600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="920" y="163" key="SettingsEditor/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1582045142600" />
+    <state x="1115" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583040885614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1115" y="345" key="com.intellij.ide.util.TipDialog/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583040885614" />
+  </component>
+</project>

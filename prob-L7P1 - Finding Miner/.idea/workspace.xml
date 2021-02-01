@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2efc18a1-eb2c-426f-acd5-bd985d2470c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YWGKYRAy5pmJAhhN2HjSQ0wNW4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../2-1/01418211 Software Construction/project211/6110405949" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FindingMiner_TimeLimit">
+    <configuration name="FindingMiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindingMiner" />
+      <module name="prob-L7P1 - Finding Miner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindingMinerCopy1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindingMinerCopy1" />
+      <module name="prob-L7P1 - Finding Miner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindingMiner_TimeLimit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindingMiner_TimeLimit" />
+      <module name="prob-L7P1 - Finding Miner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Read" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Read" />
+      <module name="prob-L7P1 - Finding Miner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindingMiner_TimeLimit" />
+        <item itemvalue="Application.FindingMiner" />
+        <item itemvalue="Application.FindingMinerCopy1" />
+        <item itemvalue="Application.Read" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2efc18a1-eb2c-426f-acd5-bd985d2470c0" name="Default Changelist" comment="" />
+      <created>1583050873425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583050873425</updated>
+      <workItem from="1583050874658" duration="632000" />
+      <workItem from="1583059812384" duration="9447000" />
+      <workItem from="1583069695657" duration="2330000" />
+      <workItem from="1583076513144" duration="3034000" />
+      <workItem from="1583244707638" duration="9000" />
+      <workItem from="1583327347507" duration="2646000" />
+      <workItem from="1583388417582" duration="807000" />
+      <workItem from="1583658780099" duration="65000" />
+      <workItem from="1583897032274" duration="1021000" />
+      <workItem from="1584169843925" duration="673000" />
+      <workItem from="1584200860687" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom" timestamp="1583898053927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583898053927" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center" timestamp="1583898053927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.center/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583898053927" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left" timestamp="1583898053927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.left/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583898053927" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right" timestamp="1583898053927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.right/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583898053927" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1583330040216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583330040216" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1583330040216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583330040216" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1583330040215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583330040215" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1583330040216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583330040216" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1583066939966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583066939966" />
+    <state x="1115" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1584200861982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1115" y="345" key="com.intellij.ide.util.TipDialog/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584200861982" />
+    <state x="690" y="287" key="extract.method.dialog" timestamp="1583065190554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="287" key="extract.method.dialog/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583065190554" />
+    <state x="1082" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1583068755983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1082" y="229" width="672" height="678" key="search.everywhere.popup/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583068755983" />
+  </component>
+</project>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc09b586-b0ac-4331-bff9-42c130799b29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WcY7umICObpdnWFgIs5T0Wl0ZE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\KU Work Document\2-2\01418232 Algorithm Design and Analysis\Lab\prob-L4P1 - IP Address\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CountMinus">
+    <configuration name="CountMinus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountMinus" />
+      <module name="prob-L4P1 - IP Address" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountOne (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountOne" />
+      <module name="prob-L4P1 - IP Address" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IPAddress" />
+      <module name="prob-L4P1 - IP Address" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountMinus" />
+        <item itemvalue="Application.CountOne (1)" />
+        <item itemvalue="Application.CountOne" />
+        <item itemvalue="Application.IPAddress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc09b586-b0ac-4331-bff9-42c130799b29" name="Default Changelist" comment="" />
+      <created>1579450185304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579450185304</updated>
+      <workItem from="1579450186591" duration="8019000" />
+      <workItem from="1579519878897" duration="3736000" />
+      <workItem from="1579604541195" duration="4407000" />
+      <workItem from="1579695191670" duration="29000" />
+      <workItem from="1579695231608" duration="48000" />
+      <workItem from="1579695349298" duration="6000" />
+      <workItem from="1579697207143" duration="607000" />
+      <workItem from="1580230167512" duration="1355000" />
+      <workItem from="1580306121756" duration="532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1086" y="179" key="#CountOne_(1)" timestamp="1580230920791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1086" y="179" key="#CountOne_(1)/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580230920791" />
+    <state width="1055" height="344" key="GridCell.Tab.0.bottom" timestamp="1580306653934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1055" height="344" key="GridCell.Tab.0.bottom/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580306653934" />
+    <state width="1055" height="344" key="GridCell.Tab.0.center" timestamp="1580306653934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1055" height="344" key="GridCell.Tab.0.center/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580306653934" />
+    <state width="1055" height="344" key="GridCell.Tab.0.left" timestamp="1580306653934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1055" height="344" key="GridCell.Tab.0.left/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580306653934" />
+    <state width="1055" height="344" key="GridCell.Tab.0.right" timestamp="1580306653934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1055" height="344" key="GridCell.Tab.0.right/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580306653934" />
+    <state width="1055" height="344" key="GridCell.Tab.1.bottom" timestamp="1580306653934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1055" height="344" key="GridCell.Tab.1.bottom/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580306653934" />
+    <state width="1055" height="344" key="GridCell.Tab.1.center" timestamp="1580306653934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1055" height="344" key="GridCell.Tab.1.center/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580306653934" />
+    <state width="1055" height="344" key="GridCell.Tab.1.left" timestamp="1580306653934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1055" height="344" key="GridCell.Tab.1.left/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580306653934" />
+    <state width="1055" height="344" key="GridCell.Tab.1.right" timestamp="1580306653934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1055" height="344" key="GridCell.Tab.1.right/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580306653934" />
+    <state x="1106" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580306125601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1106" y="345" key="com.intellij.ide.util.TipDialog/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1580306125601" />
+    <state x="1114" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579457857987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1114" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1579457857987" />
+    <state x="1072" y="229" key="search.everywhere.popup" timestamp="1579450665234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1072" y="229" key="search.everywhere.popup/-1600.187.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1579450665234" />
+  </component>
+</project>
